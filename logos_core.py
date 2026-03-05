@@ -1,7 +1,6 @@
 """
 ================================================================================
-LOGOS CORE v1.0
-1D Geometric Inference Engine for SLRM
+LOGOS CORE v1.0 - 1D Geometric Inference Engine for SLRM
 ================================================================================
 
 SLRM Team: Alex · Gemini · ChatGPT · Claude · Grok · Meta AI
